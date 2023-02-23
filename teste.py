@@ -1,0 +1,1 @@
+print("Instalado com Sucesso")
