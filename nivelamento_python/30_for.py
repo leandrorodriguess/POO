@@ -10,9 +10,10 @@
 # print(repeticoes)
 # print('Aquele laço acima pode ter repetições infinitas')
 texto = 'Python'
-
+novo_texto2 = ''
 novo_texto = ''
 for letra in texto:
     novo_texto += f'*{letra}'
+    novo_texto2 = f'{novo_texto2}' + f'*{letra}'
     print(letra)
 print(novo_texto + '*')

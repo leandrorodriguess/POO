@@ -1,5 +1,5 @@
 """ while/else """
-string = 'Valor qualquer'
+string = 'Va'
 
 i = 0
 while i < len(string):
