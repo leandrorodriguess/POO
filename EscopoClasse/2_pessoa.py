@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 class Pessoa:
 
     anoAtual = int(datetime.strftime(datetime.now(), '%Y'))
